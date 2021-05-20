@@ -1,14 +1,11 @@
 ---
 title: " "
-header:
-  overlay_image: /assets/images/me.jpg
-  caption: "Photo Credit: **Kathleen Finlinson**"
 permalink: /about/
 ---
 
 # About Me
 
-<img src="{{ "/assets/images/routeburn.jpg" | absolute_url }}"
+<img src="{{ "/assets/images/me.jpg" | absolute_url }}"
 width="50%" hspace="20" align="right">
 
 I am currently a doctoral student in [Department of Speech, Language,   
